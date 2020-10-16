@@ -1,7 +1,5 @@
 <html>
 <body>
-<form action="http://localhost:8080/barras/Controlador" method="post">
-    <label for="hora">Si quieres saber la fecha pulsa el botón: </label> <input type="submit" value="púlsame">
-</form>
+<h1>Para saber la hora pincha <a href="http://localhost:8080/barras/Controlador">aquí</a></h1>
 </body>
 </html>
